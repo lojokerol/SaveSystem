@@ -1,4 +1,4 @@
-## HotToUse
+## HowToUse
 
 ### Save Any Actor Or Object
 
